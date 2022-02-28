@@ -136,6 +136,9 @@ section.author p,section.why p,section.what p,section.how p,section.if p,section
         width: 100%;
         height: 80%;
     }
+    .how table{
+        width: 80%;
+    }
     .how table thead tr th:nth-child(1){
         display: none;
     }
